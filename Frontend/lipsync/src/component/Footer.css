@@ -1,0 +1,15 @@
+.centered-Footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    color: white; /* Set text color for the centered content */
+    background-color: #f55a00;
+    position: fixed; 
+    bottom:0px;
+    
+  
+    width: 100%; 
+    height: 40px;
+    
+  }

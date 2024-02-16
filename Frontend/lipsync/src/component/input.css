@@ -1,0 +1,25 @@
+.centered_div {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.space{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.form_box {
+    /* min-width: 50%;
+    min-height: 50vp; */
+    border: dotted #f55a00 0.25vw;
+    /* border: 1px solid red; */
+    margin: 0vw;
+    padding: 3vw;
+    position: relative;
+    /* position:relative for .prevBtn and .nextBtn position:absolute; */
+  }

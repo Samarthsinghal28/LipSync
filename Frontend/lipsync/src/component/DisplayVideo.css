@@ -1,0 +1,16 @@
+.divCenter{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+
+.box {
+    /* min-width: 50%;
+    min-height: 50vp; */
+    border: dotted #f55a00 0.25vw;
+    /* border: 1px solid red; */
+    margin: 1vw;
+    padding: 3vw;
+    position: relative;
+    /* position:relative for .prevBtn and .nextBtn position:absolute; */
+  }

@@ -1,0 +1,13 @@
+.centered-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+  }
+
+
+.bar-style{
+  color:white;
+  background-color:#f55a00;
+  text-decoration: underline;
+}

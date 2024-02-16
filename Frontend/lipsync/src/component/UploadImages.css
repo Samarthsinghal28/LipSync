@@ -1,0 +1,16 @@
+.center{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    justify-items: center;
+}
+
+.horizontalFlex{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    justify-items: center;
+    padding: 0px 50px;
+}
+
